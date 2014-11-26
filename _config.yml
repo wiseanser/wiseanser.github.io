@@ -1,0 +1,12 @@
+# Site settings
+title: Wise Anser - Blog
+email: mail@wiseanser.com
+description: 	"This blog is about to forget the structure and getting things done."
+baseurl: "/blog"
+url: "http://wiseanser.com"
+twitter_username: wiseanser
+github_username:  efelcie
+
+# Build settings
+markdown: kramdown
+permalink: pretty
