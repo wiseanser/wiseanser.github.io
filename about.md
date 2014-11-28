@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-In a time of multitasking we still believe in the words of David Allen and imagine a world where gtd is really working on your Apple environment.
+In a time of increased multitasking, we believe in the words of David Allen and imagine a world where GTD really works within your Apple environment.
 
-That is why we are a team of gtd-enthusiasts that develop an simple app which is organizing all tasks, mails and files for apple-user who want to escape their digital mess and search for an app that really helps to focus on the creative work that they love.
+As a team of GTD enthusiasts, we have developed a simple app which organizes all tasks, emails and files for the Apple user that wants to escape their digital clutter and use a single interface to provide a focus on the creative work that they love.
 
-Other than gtd-apps like OmniFocus we are able to build a stable and trusting structure based on your file system up to 50.000 feet  that you really can forget on the runway and we will not stop until every digital native gtd-fan knows there is a working way to get your things done with your Mac and iPhone.
+Unlike other GTD apps such as OmniFocus, we are able to build a stable and reliable structure based on your file system [up to 50,000 feet] that you really can forget about on the runway. We will not stop until every digital native GTD fan knows there is an effective way to get your things done with your Mac and iPhone.
 
 ###**Tell it your creative friends and support our kickstarter campaign to make it real!**
 
