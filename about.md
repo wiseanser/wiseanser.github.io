@@ -10,7 +10,7 @@ As a team of GTD enthusiasts, we have developed a simple app which organizes all
 
 Unlike other GTD apps such as OmniFocus, we are able to build a stable and reliable structure based on your file system [up to 50,000 feet] that you really can forget about on the runway. We will not stop until every digital native GTD fan knows there is an effective way to get your things done with your Mac and iPhone.
 
-###**Tell it your creative friends and support our kickstarter campaign to make it real!**
+###**Tell your creative friends and support our kickstarter campaign to make it happen!**
 
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <div class="addthis_sharing_toolbox"></div>
