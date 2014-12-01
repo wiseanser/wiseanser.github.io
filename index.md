@@ -5,11 +5,41 @@ layout: page
 Main features
 =============
 
-Feature 1
----------
+One Inbox for all your stuff
+----------------------------
 
-Feature 2
----------
+Mail, Dropbox, Abarbeitung der Inbox
+
+Open structure for storing your stuff
+-------------------------------------
+
+Ablage in Ordnern, ablage in textdateien, todo.txt, Dropbox als Storage
+
+Keep it neat and clean
+----------------------
+
+Rolling Review, Review, Hinweise für Entmüllung, hochleveln und features erlernen 
+
+Keep your Stuff in a structure that matters for you
+---------------------------------------------------
+
+Sinnstruktur, Kontext
+
+Delegate your Stuff
+-------------------
+
+Personenkontext, Waiting For Liste, Tickler
+
+All the stuff the others also do
+--------------------------------
+
+todo-abarbeitung, suche nach kontext, 
+
+Get a Pro at *getting things done*
+----------------------------------
+
+Level up in missions, collect credits, ein feature nach dem anderen freischalten
+
 
 About us
 ========
