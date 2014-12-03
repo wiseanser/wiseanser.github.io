@@ -2,7 +2,11 @@
 layout: page
 ---
 
-The Live of an Anser
+We believe that a state of personal flow is attainable where stress-free productivity for getting things done is possible.
+Helping people to get into that flow as well as stay within it is our main goal.
+Anser is an App for IOS uniquely unifying a frame of behavioral processes into a tool helping to attain these goal. Helping you on getting things done and teaching you how to get good at it.
+
+Live of an Anser
 ====================
 
 Popping out of the egg (Managing a List)
@@ -11,29 +15,29 @@ Popping out of the egg (Managing a List)
 After crawling out of the egg the most important things are the small and pressing ones. Like keeping you warm under mama goose or finding your first food. Same with Anser. A new way of getting your things done hits the hard reality, the speed of your life will not slow down only because you got a new fancy tool on your IPad. So Anser deals with first things first. What is the most pressing thing you want to get organised? Your daily grocery? Whom to call when?
 Create a new Task by simply adding it, have a List of Things to do. 
 
-Walking around the nest (Context)
+Walking around the nest (Adding Context)
 -----------------------
 
 After some time mother gooze will take a walk around the nest and all her siblings follow her. So there is more then only the nest, so much to do at the lake, the yard, the small basture behind the farm. If there is more than a nest for our litte Anser, is there more than a single list for our digital companion?
 Finding that Anser works for your grocery, why not adding your Phonecalls, Things you need to do in the garden, Things to mention next time you see your boss, whatever you think of. Structuring your tasks into a Context helps to get a filtered view on what can be done next at every specific situation. 
 
-New Plans (Tiggler)
+Making plans in a huge world (Using Tigglers)
 -------------------
 
 When walking around the nest the little gooze sees a lot of things it can do. But not right now. Taking a swim in the lake might be a good idea tomorrow. In Anser, we don't want to get disturbed by Tasks we don't have to care about. This not only means tasks which can't be done here (if a task is in the Context "next time I see my boss" it will make no sense to have this tasks in front of you when you sit at home at the chimney), but also tasks which can't be done now. If you have to file your report by the end of the month, you want to see that task as soon as it is possible for you to take an action about it (like writing the report and filing it). Here comes the tiggler, your private post office clerk dedicated to send letters back to you at a specific future date you decided you want to receive them. 
 So with not only not seeing which can't be done right here, but also what can't be done right now, Anser keeps clean und neat, only showing you tasks you can do immedeate next actions uppon.
 
-xxxx (Inbox)
+Finding the way back to the nest (Having one Inbox for all stuff)
 ----
 
 But now you got lost, all these nice little context to but the Task into, but with every new context another decision where it goes to. But when having an idea we don't want to think about where to put it and what it implies, who needs to be involved, ..., we want to have it fast in Anser so that we can deal with that idea later on. Here comes Inbox, one single Inbox to put all your ideas and thoughts. Later on, when you go throught the Inbox,  you decide item by item, what to do with it. How to structure it, where to put it. This separation between "bring your idea fast into the system" and "decide later what to do about it" keeps you fast and complete, everything at its time. You will be suprised how many opportunities come up during the day to go throught the Inbox while waiting for a meeting, driving home from work, ....
 
-xxxx (Purpose)
+Finding your purpose in live (Building up horizonts of focus)
 --------------
 
 First it is interesting for our little gooze to run around a bit to explore the world. But the more it runs around, the more one question comes into it's mind. "Why?". Also using Anser for task management can be a fun game by itself, but the more tasks you process the more it will come to your mind to question the reason why you are doing things. Here comes the possibility to structure your tasks. 
 
-xxxx (Review)
+Step back from time to time (Using Reviews)
 -------------
 
 Live is a moving target. With all that structure around us it gets more and more likely, that these structures are out of date, that our live has changed meanwhile. A weekly review giving you a view from above to allign your goals with your structure helps keeping up to the change.
