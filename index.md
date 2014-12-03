@@ -6,7 +6,13 @@ We believe that a state of personal flow is attainable where stress-free product
 Helping people to get into that flow as well as stay within it is our main goal.
 Anser is an App for IOS uniquely unifying a frame of behavioral processes into a tool helping to attain these goal. Helping you on getting things done and teaching you how to get good at it.
 
-Live of an Anser
+Current applications trying to help you get organised do not work. The reason for that is that a tool where your todos and actions slowly decay and rot into a huge pile of outdated junk is more of a foe than a friend. Anser is your friend and companion, not a nagging reminder sitting in your neck always calling for attention.
+Where other Applications see their part done by providing a system to keep your tasks together, we see the start of a rising challenge. Why are you working these tasks? What are the things do be done next to kee productive and getting forward? How can you keep the live pumping throught the system? 
+Anser is a game. Helping you get organised. Showing you step by step how to enhance your individual productivity level, regardless where you currently are. Anser adapts to where you currently stand by unlocking more and more advanced feature depending on your ability to cope with the process.
+
+We invite you to take a tour throught these features:
+
+Life of a goose
 ====================
 
 Popping out of the egg (Managing a List)
