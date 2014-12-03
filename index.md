@@ -124,6 +124,15 @@ We do not provide a mere technical solution to an behavioral problem. We've stud
 ### What is this strange Business Model of yours?
 We truly believe in helping people getting their daily stuff done so they can focus on things that matter for them. Our business model incorporates that thought, we care primary about finally providing a way to enhance stress-free productivity.
 
+### No more Due-Date? 
+*getting things done* heavily depends on tigglers, which are a kind of "sending the task at a later date back to you". Most task management tools do not provide that possibility but instead add a duedate to every task. Why is that? 
+Well, most of the time we interfere with our environment using deadlines (better name it a "descrete point in time at which you have something to be completed"). So mapping a deadline to a duedate is the obvious and easy solution, but bringts a lot of distadvantages. 
+* You see all the things you have to do and get frustrated even bevor starting. Like having a citchen full of dirty crockery, seeing the complete pile at once simply makes you run away instead of starting to wash the dishes.
+* You mix up your hard deadlines with your softer ones (which are by far more). Showing up next Monday at 9:00 AM for your job interview is a hard deadline. But calling someone back for information you need isn't. How to disdinguish now? In a Tasklist-Tool having duedates not so easy...
+We put hard deadlines in your calendar, pinning a certain non movable point in time is what it was made for.
+Everything else is a "next action" which can be done as soon as possible. The problem with "as soon as possible" is a more behavioural then it is a technical. We, conditioned to deadlines, see "as soon as possible" letting it lay as long as possible to get it done just before the deadline.
+
+So keeping your list of "next actions" as small as possible but in return commiting to doing "next actions" in a sense of "as soon as possible" (if it is not as soon as possible, you can tiggle it furhter into the future) helps you get rid of the duedate. 
 
 
 
