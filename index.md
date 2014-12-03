@@ -118,6 +118,9 @@ We currently have a working prototype of our App to verify the key features and 
 * Growing Anser
     * continuous improvement on covering the ideas of getting things done with our App
 
+What are your Milestones?
+=========================
+
 Risk an Challenges
 ==================
 
