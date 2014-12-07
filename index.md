@@ -112,6 +112,8 @@ XXX
 Stefan
 ------
 
+Developing software is my passion since I got my first computer in the middleages of IT around 96. Since then i got quite far like beeing system architect of an rfid middleware having a total development effort of over 40 manyears as well as creating a service desk and contract management software based on Microsoft SharePoint. I will be the driving force behind the technical creation of Anser. 
+
 Where does your money go?
 =========================
 
