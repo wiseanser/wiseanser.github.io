@@ -2,10 +2,38 @@
 layout: page
 ---
 
-Bla
-====
 
-XXX
+
+# Forget it!
+
+
+>  In karate there is an image that’s used to define the position of perfect readiness: 
+> “mind like water.” Imagine throwing a pebble into a still pond. 
+> How does the water respond? 
+> The answer is, totally appropriately to the force and mass of the input; 
+> then it returns to calm. It doesn’t overreact or underreact.
+> -David Allen
+
+  If you want to free your mind, you have to forget all the stuff that triggers you.
+  But really forgetting important stuff for a moment isn't easy.
+  We found that's the problem with software that wants to implement David Allens GTD.
+  We don't really forget the stuff. We only transfer the open loops in your head in a digital system of open loops we can't forget.
+
+  We developed a digital implementation of GTD, we call 'Forgetting Things Done' that focus on this matter. Forgetting Things Done is a set of rules, that helps you to build one system you trust. It is an open approach you can use with the software you usual use. It uses that storage you already use like your email-services, your file system, Dropbox or Evernote. It's future proof.
+  
+  To forget you need one system. One system don't mean one storage, you can use the system in different storages at the same time. But gradually with more storages it would be ineffective. That's why we developed **Forget it!**. Forget it! is an app that shows you your divided system as one system. You can organize and review everything without switching your app.
+
+  The biggest learning after our research of digital implementations of GTD was, that the most people lost the trust in their system if they lost the control. The people are overwhelmed of the complexity that grows with the time. That's why David Allen said, the review is the most important part of 'Getting Things Done'.
+
+  We know that to forget things, we have to focus on the review. Forget it! has smart algorithms that help you to find open loops in your system. It hides files or whole folders for a specific time.
+
+  But the best function of Forget it! is, that it adapts the complexity of your possibilities to your ability to control it. You can see it as game. You start in at a low complexity level with not much functions. If you master this level you get new functions and more possibilities. But if you are lazy you fall back to an easier level.
+
+
+  
+
+
+
 
 
 Main features
