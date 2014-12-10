@@ -113,8 +113,13 @@ We currently have a working prototype of our App to verify the key features and 
 * Growing Anser
     * continuous improvement on covering the ideas of getting things done with our App
 
+The money we are asking for will make up 50% of our initial cost to get the job done. The rest will be provided by the team, our own fundings, hard- and software, long development nights and weekends and some StartUp support from the Austrain government.  
+
 What are your Milestones?
 =========================
+
+If this campaign succeeds, our planned schedule is as follows: 
+We continue development throughout 2015 and update our backers on the progress with our bi-weekly results from the scrum review. A closed beta for our backers will be available by end of 2015 and the final release is planned for mid of 2016.
 
 Risk an Challenges
 ==================
@@ -142,5 +147,6 @@ Everything else is a "next action" which can be done as soon as possible. The pr
 
 So keeping your list of "next actions" as small as possible but in return committing to doing "next actions" in a sense of "as soon as possible" (if it is not as soon as possible, you can tickle it further into the future) helps you get rid of the duedate. 
 
-
+### Why are you funding in $ while sitting in Austria?
+So far starting a kickstarter project is not possible from Austria. Also we assume that most of our backers will come from the states and we want to feel closer to our target group. 
 
