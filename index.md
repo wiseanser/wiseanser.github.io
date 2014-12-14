@@ -18,13 +18,13 @@ If you want to free your mind, you have to forget all the stuff that triggers yo
 
 We have developed a digital implementation of GTD focused on this issue, which we call 'Forgetting Things Done'. Forgetting Things Done is a set of rules that helps you to build one system you trust. It is an open approach you can use with the software you usually employ. It uses the storage you are already using, like your email services, your file system, Dropbox or Evernote. It's future proof.
   
-To forget, you need one system. One system don't mean one storage, you can use the system in different storages at the same time. But gradually, with more storages, this would be ineffective. That's why we developed **Forget it**. **Forget it** is an app that shows you your divided system as one. You can organize and review everything without switching your app.
+To forget, you need one system. One system don't mean one storage, you can use the system in different storages at the same time. But gradually, with more storages, this would be ineffective. That's why we developed *Forget it*. *Forget it* is an app that shows you your divided system as one. You can organize and review everything without switching your app.
 
 The biggest discovery after our research of digital implementations of GTD was that most people lost trust in their system once they lost control. People are overwhelmed of the complexity that grows with time. That's why David Allen has said that the review is the most important part of 'Getting Things Done'.
 
-We know that to forget things, we have to focus on the review. **Forget it** has smart algorithms that help you find open loops in your system. It hides files or whole folders for a specific time.
+We know that to forget things, we have to focus on the review. *Forget it* has smart algorithms that help you find open loops in your system. It hides files or whole folders for a specific time.
 
-But the best function of **Forget it** is that it adjusts the complexity of your possibilities to your ability to control it. You can see it as a game. You start in at a low complexity level with a low number of functions. If you master this level, you get new functions and more possibilities. But if you are lazy, you fall back to an easier level.
+But the best function of *Forget it* is that it adjusts the complexity of your possibilities to your ability to control it. You can see it as a game. You start in at a low complexity level with a low number of functions. If you master this level, you get new functions and more possibilities. But if you are lazy, you fall back to an easier level.
 
 Main features
 =============
@@ -37,12 +37,12 @@ Anser provides one single inbox for everything coming in. Every possibly actiona
 Open structure for storing your stuff
 -------------------------------------
 
-All data is stored transparently in **Forget it**. We use folder structures, humanly readable textfiles and markups like todo.txt. We use existing storing mechanisms by putting our data into a folder in your dropbox or organizing your mailbox. In this way you stay independent from Anser and you can browse your project structure using any filebrowser or mailclient. 
+All data is stored transparently in *Forget it*. We use folder structures, humanly readable textfiles and markups like todo.txt. We use existing storing mechanisms by putting our data into a folder in your dropbox or organizing your mailbox. In this way you stay independent from Anser and you can browse your project structure using any filebrowser or mailclient. 
 
 Keep it neat and clean
 ----------------------
 
-Keeping **Forget it** clean is essential to ist successful use. So we are heavily invested in supporting and helping you with that. We provide cleanup hints and tasks and encourage you to do regular reviews. To get used to Anser we start with a limited featureset; as soon as you are able to handle those, more and more features are enabled. In this way, learning to use **Forget it** appropriately is fun and comes easily while working with it.
+Keeping *Forget it* clean is essential to ist successful use. So we are heavily invested in supporting and helping you with that. We provide cleanup hints and tasks and encourage you to do regular reviews. To get used to Anser we start with a limited featureset; as soon as you are able to handle those, more and more features are enabled. In this way, learning to use *Forget it* appropriately is fun and comes easily while working with it.
 
 Keep your Stuff in a structure that matters for you
 ---------------------------------------------------
@@ -52,7 +52,7 @@ Keeping all your tasks in a structure that reflects your goals is essential to k
 Tickler
 -------
 
-A tickler is an easy way to tell **Forget it** to "show me a task again at some future date". Everything which requires your future attention but can't be done now can be handled using a tickler. See our FAQ for more details on why ticklers are the better due date for most situations.
+A tickler is an easy way to tell *Forget it* to "show me a task again at some future date". Everything which requires your future attention but can't be done now can be handled using a tickler. See our FAQ for more details on why ticklers are the better due date for most situations.
 
 Delegate your Stuff
 -------------------
@@ -67,7 +67,7 @@ Of course you see your to-do list, you can search your lists by context or conte
 Life's a game 
 -------------
 
-**Forget it** accompanies you in becoming a pro at getting things done. Start simply and level up, get more and more features to handle more and more aspects of your life with Anser. Go on missions to train new habits and use those habits to become even more successful. 
+*Forget it* accompanies you in becoming a pro at getting things done. Start simply and level up, get more and more features to handle more and more aspects of your life with Anser. Go on missions to train new habits and use those habits to become even more successful. 
 
 About us
 ========
@@ -94,7 +94,7 @@ We currently have a working prototype of our app to verify the key features and 
     * fueling our Blog and Twitter with new content about getting things done
     * running our homepage
     * financing SEO and campaigns 
-* Growing **Forget it**
+* Growing *Forget it*
     * continuous improvement on covering the ideas of getting things done with our app
 
 The money we are asking for will make up for 50 % of our initial cost to get the job done. The rest will be provided by the team, our own funding, hard- and software, long development nights and weekends and some startup support from the Austrian government.
@@ -114,7 +114,7 @@ Risk an Challenges
 FAQ
 ===
 
-### Why do you think **Forget it** will finally be an approach which works for doing getting things done digitally?
+### Why do you think *Forget it* will finally be an approach which works for doing getting things done digitally?
 We do not provide a mere technical solution to an behavioral problem. We as productivity-junkies have studied all the applications and approaches which have come and gone over the years, always searching for a better way, always seeing the same problems and pitfalls. Anser has a completely different approach, not leaving you out there in the ocean of your evergrowing tasks to drown slowly. To be honest, the task management is one of the less important parts of Anser. Anser helps you internalize the way of getting things done. Anser is your personal coach. You learn step by step why things are the way they are in Anser, why this way of organizing works, what the pitfalls are and what to care about.
 
 ### What is this strange business model of yours?
