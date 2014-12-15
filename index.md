@@ -32,22 +32,22 @@ Main features
 One Inbox for all your stuff
 ----------------------------
 
-Anser provides one single inbox for everything coming in. Every possibly actionable item you have to take care of appears in your inbox for further processing. Keep your mind free from distractions. If something comes up, dump it in the inbox so that you can forget about it for now and go on with whatever you were doing. Incoming mails are also put into your inbox. Process your inbox like you read your Facebook newsfeed. From time to time, take a look and process the items arrived in your inbox by deciding to trash them, do them instantly - if it takes less than 2 minutes - or file them for later processing. Believe us, nothing is so important that it should distract you from your current work, instead of letting you find the right time for your inbox grooming. This is complete, relaxed control of your incoming workflow. 
+*Forget it* provides one single inbox for everything coming in. Every possibly actionable item you have to take care of appears in your inbox for further processing. Keep your mind free from distractions. If something comes up, dump it in the inbox so that you can forget about it for now and go on with whatever you were doing. Incoming mails are also put into your inbox. Process your inbox like you read your Facebook newsfeed. From time to time, take a look and process the items arrived in your inbox by deciding to trash them, do them instantly - if it takes less than 2 minutes - or file them for later processing. Believe us, nothing is so important that it should distract you from your current work, instead of letting you find the right time for your inbox grooming. This is complete, relaxed control of your incoming workflow. 
 
 Open structure for storing your stuff
 -------------------------------------
 
-All data is stored transparently in *Forget it*. We use folder structures, humanly readable textfiles and markups like todo.txt. We use existing storing mechanisms by putting our data into a folder in your dropbox or organizing your mailbox. In this way you stay independent from Anser and you can browse your project structure using any filebrowser or mailclient. 
+All data is stored transparently in *Forget it*. We use folder structures, humanly readable textfiles and markups like todo.txt. We use existing storing mechanisms by putting our data into a folder in your dropbox or organizing your mailbox. In this way you stay independent from *Forget it* and you can browse your project structure using any filebrowser or mailclient. 
 
 Keep it neat and clean
 ----------------------
 
-Keeping *Forget it* clean is essential to ist successful use. So we are heavily invested in supporting and helping you with that. We provide cleanup hints and tasks and encourage you to do regular reviews. To get used to Anser we start with a limited featureset; as soon as you are able to handle those, more and more features are enabled. In this way, learning to use *Forget it* appropriately is fun and comes easily while working with it.
+Keeping *Forget it* clean is essential to ist successful use. So we are heavily invested in supporting and helping you with that. We provide cleanup hints and tasks and encourage you to do regular reviews. To get used to *Forget it* we start with a limited featureset; as soon as you are able to handle those, more and more features are enabled. In this way, learning to use *Forget it* appropriately is fun and comes easily while working with it.
 
 Keep your Stuff in a structure that matters for you
 ---------------------------------------------------
 
-Keeping all your tasks in a structure that reflects your goals is essential to keeping an intuitive overview. Anser lets you build up a structure of projects to file tasks and support material into. Anser helps you keep that structure aligned with your shifting goals and up-to-date. A context is another dimension to every task. The context gives you a hint on when, where and under which circumstances a task can be performed. This can be, for example, something like "at office" or "next time I meet Sally".  
+Keeping all your tasks in a structure that reflects your goals is essential to keeping an intuitive overview. *Forget it* lets you build up a structure of projects to file tasks and support material into. *Forget it* helps you keep that structure aligned with your shifting goals and up-to-date. A context is another dimension to every task. The context gives you a hint on when, where and under which circumstances a task can be performed. This can be, for example, something like "at office" or "next time I meet Sally".  
 
 Tickler
 -------
@@ -67,7 +67,7 @@ Of course you see your to-do list, you can search your lists by context or conte
 Life's a game 
 -------------
 
-*Forget it* accompanies you in becoming a pro at getting things done. Start simply and level up, get more and more features to handle more and more aspects of your life with Anser. Go on missions to train new habits and use those habits to become even more successful. 
+*Forget it* accompanies you in becoming a pro at getting things done. Start simply and level up, get more and more features to handle more and more aspects of your life with *Forget it*. Go on missions to train new habits and use those habits to become even more successful. 
 
 About us
 ========
@@ -80,7 +80,7 @@ XXX
 Stefan
 ------
 
-Developing software has been my passion since I got my first computer in the middle ages of IT around `96. Since then I have gotten quite far; I am a system architect of an rfid middleware, with a total development effort of over 40 manyears, and have created a service desk and contract management software based on Microsoft SharePoint. I will be the driving force behind the technical creation of Anser.
+Developing software has been my passion since I got my first computer in the middle ages of IT around `96. Since then I have gotten quite far; I am a system architect of an rfid middleware, with a total development effort of over 40 manyears, and have created a service desk and contract management software based on Microsoft SharePoint. I will be the driving force behind the technical creation of *Forget it*.
 
 Where does your money go?
 =========================
@@ -108,14 +108,14 @@ Risk an Challenges
 ==================
 
 * Will the way our app uniquely approaches Getting Things Done work for people beyond our group of test users? We think so, but we can't be sure.
-* We look back on more than 10 years of experience in development of software products, which serves us well as we know what lies ahead. The downside of our experience might be that we know how most software projects keep their schedules und budget. Our calculations are profoundly based on our intense work on Anser throughout last year. We have a prototype and we know our featureset very well, we know what works and what doesn't. But software by its nature is always a moving target, so we can't guarantee more than giving our best to keep our promises.
-* We have an approach based on gamification and leveling up the features of Anser. The tricky thing is to make it interesting und encouraging enough to keep going while providing a consistent guideline the user can follow to master the art of getting things done.
+* We look back on more than 10 years of experience in development of software products, which serves us well as we know what lies ahead. The downside of our experience might be that we know how most software projects keep their schedules und budget. Our calculations are profoundly based on our intense work on *Forget it* throughout last year. We have a prototype and we know our featureset very well, we know what works and what doesn't. But software by its nature is always a moving target, so we can't guarantee more than giving our best to keep our promises.
+* We have an approach based on gamification and leveling up the features of *Forget it*. The tricky thing is to make it interesting und encouraging enough to keep going while providing a consistent guideline the user can follow to master the art of getting things done.
 
 FAQ
 ===
 
 ### Why do you think *Forget it* will finally be an approach which works for doing getting things done digitally?
-We do not provide a mere technical solution to an behavioral problem. We as productivity-junkies have studied all the applications and approaches which have come and gone over the years, always searching for a better way, always seeing the same problems and pitfalls. Anser has a completely different approach, not leaving you out there in the ocean of your evergrowing tasks to drown slowly. To be honest, the task management is one of the less important parts of Anser. Anser helps you internalize the way of getting things done. Anser is your personal coach. You learn step by step why things are the way they are in Anser, why this way of organizing works, what the pitfalls are and what to care about.
+We do not provide a mere technical solution to an behavioral problem. We as productivity-junkies have studied all the applications and approaches which have come and gone over the years, always searching for a better way, always seeing the same problems and pitfalls. *Forget it* has a completely different approach, not leaving you out there in the ocean of your evergrowing tasks to drown slowly. To be honest, the task management is one of the less important parts of *Forget it*. *Forget it* helps you internalize the way of getting things done. *Forget it* is your personal coach. You learn step by step why things are the way they are in *Forget it*, why this way of organizing works, what the pitfalls are and what to care about.
 
 ### What is this strange business model of yours?
 We truly believe in helping people getting their daily stuff done so they can focus on things that matter to them. Our business model incorporates that thought, we primarily care about ultimately providing a way to enhance stress-free productivity.
