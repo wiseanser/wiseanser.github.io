@@ -127,6 +127,6 @@ Getting things done heavily depends on ticklers, which are a kind of "sending th
 
 So keeping your list of "next actions" as small as possible but in return committing to doing "next actions" in a sense of "as soon as possible" (if it is not as soon as possible, you can tickle it further into the future) helps you get rid of the duedate. 
 
-### Why are you funding in $ while located in Austria?
+### Why are you funding in US-Dollars although youe are located in Vienna, Austria?
 Starting a Kickstarter project is currently not possible from Austria. Also, we assume that most of our backers will come from the United States and we want to feel closer to our target group.
 
